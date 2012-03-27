@@ -1,0 +1,12 @@
+18:19:33 - !! Modified jar detected. Unpredictable results !!
+18:38:44 - !! Modified jar detected. Unpredictable results !!
+18:40:20 - !! Modified jar detected. Unpredictable results !!
+18:42:51 - 'runtime\bin\applydiff.exe -p1 -u -i ..\..\temp\temp.patch -d src\minecraft' failed : 1
+18:42:51 - 
+18:42:51 - == ERRORS FOUND ==
+18:42:51 - When decompiling with ModLoader a single hunk failure in RenderBlocks is expected and is not a problem
+18:42:51 - 
+18:42:51 - 1 out of 1 hunk FAILED -- saving rejects to file 'net\minecraft\src\RenderBlocks.#'
+18:42:51 - ==================
+18:42:51 - 
+18:44:01 - !! Missing server jar file. Aborting !!

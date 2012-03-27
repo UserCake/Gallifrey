@@ -1,0 +1,8 @@
+Mar 27, 2012 4:08:07 PM net.minecraft.src.ModLoader init
+FINE: ModLoader 1.2.4 Initializing...
+Mar 27, 2012 4:08:07 PM net.minecraft.src.ModLoader readFromClassPath
+FINER: Adding mods from C:\Documents and Settings\barbour\My Documents\minecraft decompiled\eclipse\Client\bin
+Mar 27, 2012 4:08:07 PM net.minecraft.src.ModLoader readFromClassPath
+FINER: Directory found.
+Mar 27, 2012 4:08:07 PM net.minecraft.src.ModLoader addAllRenderers
+FINE: Initialized
